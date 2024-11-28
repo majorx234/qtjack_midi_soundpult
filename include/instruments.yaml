@@ -1,10 +1,10 @@
 0:
-	id: 0
-	name:	guitar
-	image:	"../icons/guitar.png" 
-	sound: 	"../sounds/guitar.wav"
+  id: 0
+  name: guitar
+  image: "../icons/guitar.png"
+  sound: "../sounds/guitar.wav"
 1:
-	id: 1
-	guitar: bass_drum
-	image:	"../icons/bass_drum.png"
-	sound:  "../sounds/bass_drum.wav"
+  id: 1
+  guitar: bass_drum
+  image: "../icons/bass_drum.png"
+  sound: "../sounds/bass_drum.wav"
